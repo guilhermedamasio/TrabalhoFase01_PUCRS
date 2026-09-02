@@ -1,0 +1,9 @@
+/* Cor de fundo do cabeçalho do site */
+header {
+    background-color: #d6eaf8;
+}
+/* Ajusta o tamanho das imagens do carrossel para não ficarem gigantes */
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
